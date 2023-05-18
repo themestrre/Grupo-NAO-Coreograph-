@@ -24,7 +24,7 @@ Haniel Rodrigues Guimaraes de Lima – 150036558
 
 Vitor Rangel de Aquino Silva – 170064107
 
-# PROJETO 01 - 
+# PROJETO 01 - Definindo ações por reconhecimento de fala 
 
 # Resumo
 
