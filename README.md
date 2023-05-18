@@ -20,6 +20,10 @@ Carlos Eduardo Leite de Oliveira - 170007707
 
 Breno Linhares de Sousa - 170007057
 
+Haniel Rodrigues Guimaraes de Lima – 150036558
+
+Vitor Rangel de Aquino Silva – 170064107
+
 # PROJETO 01 - 
 
 # PROJETO 02 - 
