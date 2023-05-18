@@ -26,6 +26,9 @@ Vitor Rangel de Aquino Silva – 170064107
 
 # PROJETO 01 - 
 
+![Diagrama de Blocos](https://github.com/themestrre/Grupo-NAO-Coreograph-/assets/89438448/9d785fe5-d8f0-4762-9b52-f985a150fd5c)
+
+
 # PROJETO 02 - 
 
 # PROJETO 03 - 
