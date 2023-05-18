@@ -28,7 +28,7 @@ Vitor Rangel de Aquino Silva – 170064107
 
 # Resumo
 
-Para o primeiro projeto o grupo escolheu realizar as tarefas no Robô NAO e a programação foi realizada no softwre Coreography  disponível em: https://www.aldebaran.com/en/support/nao-6/downloads-softwares.
+Para o primeiro projeto o grupo escolheu realizar as tarefas no Robô NAO e a programação foi realizada no softwre Coreography 2.8.6.23  disponível em: https://www.aldebaran.com/en/support/nao-6/downloads-softwares.
 
 A primeira tarefa desenvolvida pelo grupo foi fazer o NAO ouvir e reconhecer palavras em português e realizar diferentes ações de acordo com a palavra pronuciada como *Sentar*, *Levantar*, *Falar* e *Pegar*. Especificamente na ação *Pegar* o NAO procura uma bola vermelha e anda até a bola e na ação *Falar* o NAO emita o latido de um cachorro.
 
@@ -70,8 +70,11 @@ Todas as saídas dos blocos de ação são realimentados ao bloco *"SPEECH RECO"
 
 ![Diagrama de Blocos](https://github.com/themestrre/Grupo-NAO-Coreograph-/assets/89438448/9d785fe5-d8f0-4762-9b52-f985a150fd5c)
 
+OBS: No bloco *"SPEECH RECO"* foi configurado um threshold de 40 como sensibilidade para reconhecimento dos padrões da fala.
+
 <a id='4'></a>
 ## Código
+O Código implementado pode ser acessado na pasta [Projeto_1](https://ieeexplore.ieee.org/document/9561366) deste repositório. 
 
 
 
