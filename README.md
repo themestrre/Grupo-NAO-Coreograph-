@@ -43,7 +43,7 @@ A primeira tarefa desenvolvida pelo grupo foi fazer o NAO ouvir e reconhecer pal
 
 ## Instrodução
 
-Para a implementação dessa atividade no NAO foram utilizados os microfones e câmera do NAO para o reconhecimento da fala e para o processamento de imagem para detecção da bola vermelha, além de outros sensores e atuadores como motores de passo e giroscópios para o movimento das juntas do robô. A imagem abaixa detalha melhor a localização dos microfones e a câmera presente nos olhos. 
+Para a implementação dessa atividade no NAO foram utilizados os microfones, alto falantes e câmera do NAO para o reconhecimento da fala, para reprodução da fala e para o processamento de imagem para detecção da bola vermelha, além de outros sensores e atuadores como motores de passo e giroscópios para o movimento das juntas do robô. A imagem abaixo detalha melhor a localização dos microfones e a câmera presente nos olhos. 
 
 ![sensores](https://github.com/themestrre/Grupo-NAO-Coreograph-/assets/89438448/39ac133a-d499-4dd6-be05-ccbe49dafa61)
 
@@ -55,6 +55,16 @@ O vídeo mostrando os testes do programa implementado pelo Grupo pode ser acessa
 
 <a id='3'></a>
 ## Implemnetação
+
+A figura abaixo mostra o diagrama de blocos montado no software coreography. O diagrama realiza as seguintes tarefas:
+
+1. Reconhecer a palavra pronuciada;
+2. Utilizar um swich case para selecionar entre as palavras *"Senta"*, "*Levanta"*, *"Late"* e *"Pega"*;
+3. Dependendo da palavra reconhecida o NAO realiza a respectiva ação;
+4. Primeira ação *Sentar* - implementada pelo bloco "SIT DOW";
+5. Segunda ação *Levantar* - Implementada pelo bloco "STAND UP";
+6. Terceira ação *Latir* - Implementada pelo bloco "SAY" configurado para reproduzir o texto "AU AU AU AU";
+7. Quarta ação reconhecer e caminhar até a bola - Implementada pelos blocos "RED BALL TRACKER" e "MOVE TO"
 
 ![Diagrama de Blocos](https://github.com/themestrre/Grupo-NAO-Coreograph-/assets/89438448/9d785fe5-d8f0-4762-9b52-f985a150fd5c)
 
