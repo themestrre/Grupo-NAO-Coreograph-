@@ -46,6 +46,8 @@ A primeira tarefa desenvolvida pelo grupo foi fazer o NAO ouvir e reconhecer pal
 <a id='2'></a>
 ## Vídeo
 
+O vídeo mostrando os testes do programa implementado pelo Grupo pode ser acessado pelo seguinte link: https://www.youtube.com/watch?v=vUP44cZrWn8&ab_channel=BrenoLinhares
+
 <a id='3'></a>
 ## Implemnetação
 
