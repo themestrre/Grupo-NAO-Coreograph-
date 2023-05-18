@@ -32,20 +32,28 @@ Para o primeiro projeto o grupo escolheu realizar as tarefas no Robô NAO e a pr
 
 A primeira tarefa desenvolvida pelo grupo foi fazer o NAO ouvir e reconhecer palavras em português e realizar diferentes ações de acordo com a palavra pronuciada como *Sentar*, *Levantar*, *Falar* e *Pegar*. Especificamente na ação *Pegar* o NAO procura uma bola vermelha e anda até a bola e na ação *Falar* o NAO emita o latido de um cachorro.
 
-## Contents
+## Conteúdo
 
 - [Introdução](#1)
 - [Video](#2)
 - [Implementação](#3)
+- [Código](#3)
+
+<a id='1'></a>
 
 ## Instroducão
 
+<a id='2'></a>
 ## Vídeo
 
+<a id='3'></a>
 ## Implemnetação
 
-
 ![Diagrama de Blocos](https://github.com/themestrre/Grupo-NAO-Coreograph-/assets/89438448/9d785fe5-d8f0-4762-9b52-f985a150fd5c)
+
+<a id='4'></a>
+## Código
+
 
 
 # PROJETO 02 - 
