@@ -58,13 +58,15 @@ O vídeo mostrando os testes do programa implementado pelo Grupo pode ser acessa
 
 A figura abaixo mostra o diagrama de blocos montado no software coreography. O diagrama realiza as seguintes tarefas:
 
-1. Reconhecer a palavra pronuciada;
-2. Utilizar um swich case para selecionar entre as palavras *"Senta"*, "*Levanta"*, *"Late"* e *"Pega"*;
+1. Reconhecer a palavra pronuciada - implementada pelo bloco *"SPEECH RECO"* ;
+2. Utilizar um *swich case* para selecionar entre as palavras *"Senta"*, "*Levanta"*, *"Late"* e *"Pega"*;
 3. Dependendo da palavra reconhecida o NAO realiza a respectiva ação;
 4. Primeira ação *Sentar* - implementada pelo bloco "SIT DOW";
 5. Segunda ação *Levantar* - Implementada pelo bloco "STAND UP";
 6. Terceira ação *Latir* - Implementada pelo bloco "SAY" configurado para reproduzir o texto "AU AU AU AU";
 7. Quarta ação reconhecer e caminhar até a bola - Implementada pelos blocos "RED BALL TRACKER" e "MOVE TO"
+
+Todas as saídas dos blocos de ação são realimentados ao bloco *"SPEECH RECO"* para que o NAO possa reconhecer novas palavras após terminar de realizar a ação atual. 
 
 ![Diagrama de Blocos](https://github.com/themestrre/Grupo-NAO-Coreograph-/assets/89438448/9d785fe5-d8f0-4762-9b52-f985a150fd5c)
 
