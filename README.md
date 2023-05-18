@@ -54,7 +54,7 @@ Para a implementação dessa atividade no NAO foram utilizados os microfones, al
 O vídeo mostrando os testes do programa implementado pelo Grupo pode ser acessado pelo seguinte link: https://www.youtube.com/watch?v=vUP44cZrWn8&ab_channel=BrenoLinhares
 
 <a id='3'></a>
-## Implemnetação
+## Implementação
 
 A figura abaixo mostra o diagrama de blocos montado no software coreography. O diagrama realiza as seguintes tarefas:
 
