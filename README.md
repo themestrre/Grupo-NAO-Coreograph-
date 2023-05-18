@@ -74,7 +74,7 @@ OBS: No bloco *"SPEECH RECO"* foi configurado um threshold de 40 como sensibilid
 
 <a id='4'></a>
 ## Código
-O Código implementado pode ser acessado na pasta [Projeto_1]([https://ieeexplore.ieee.org/document/9561366](https://github.com/themestrre/Grupo-NAO-Coreograph-/tree/main/PROJETO_1)) deste repositório. 
+O Código implementado pode ser acessado na pasta [Projeto_1](https://github.com/themestrre/Grupo-NAO-Coreograph-/tree/main/PROJETO_1) deste repositório. 
 
 
 
