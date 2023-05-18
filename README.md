@@ -41,7 +41,12 @@ A primeira tarefa desenvolvida pelo grupo foi fazer o NAO ouvir e reconhecer pal
 
 <a id='1'></a>
 
-## Instroducão
+## Instrodução
+
+Para a implementação dessa atividade no NAO foram utilizados os microfones e câmera do NAO para o reconhecimento da fala e para o processamento de imagem para detecção da bola vermelha, além de outros sensores e atuadores como motores de passo e giroscópios para o movimento das juntas do robô. A imagem abaixa detalha melhor a localização dos microfones e a câmera presente nos olhos. 
+
+![sensores](https://github.com/themestrre/Grupo-NAO-Coreograph-/assets/89438448/39ac133a-d499-4dd6-be05-ccbe49dafa61)
+
 
 <a id='2'></a>
 ## Vídeo
